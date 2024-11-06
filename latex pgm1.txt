@@ -1,0 +1,17 @@
+\documentclass{report}
+\usepackage[paper height=20cm,paper width=17cm, textwidth=10cm]{geometry}
+\usepackage{fancyhdr}
+\begin{document}
+\pagestyle{fancy}
+%\rhead{welcome}
+\lhead{Latex lab programs}
+\lfoot{CiTech,B.E}
+\cfoot{2024-2025}
+\rfoot{\thepage}
+\chapter{Program1}
+\section{intro}
+
+\section{Labpgm1}
+
+
+\end{document}
